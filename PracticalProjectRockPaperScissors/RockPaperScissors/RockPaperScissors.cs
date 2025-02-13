@@ -18,12 +18,10 @@ namespace RockPaperScissors
             {
                 playerMove = Rock;
             }
-
             else if (playerMove == "p" ||  playerMove == "paper")
             {
                 playerMove = Paper;
             }
-
             else if (playerMove == "s" || playerMove == "scissors")
             {
                 playerMove = Scissors;
